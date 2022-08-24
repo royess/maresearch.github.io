@@ -40,9 +40,12 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
+  - icon: arxiv
     icon_pack: ai
     link: https://arxiv.org/a/zhang_x_22.html
+  - icon : orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-0677-6996
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/royess
