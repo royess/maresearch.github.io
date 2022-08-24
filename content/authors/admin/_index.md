@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Grad Students
 ---
 
 Yuxuan Yan is a graduate student at IIIS, Tsinghua University. His research interests include parametric quantum circuits and random models for quantum systems.
