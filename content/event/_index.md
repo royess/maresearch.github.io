@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Invited Talks
 
 # Listing view
 view: compact
