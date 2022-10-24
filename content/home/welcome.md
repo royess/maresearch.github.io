@@ -6,10 +6,9 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: |
-  Ma
-  Research Group
-hero_media: welcome.jpg
+# title: |
+#   Ma Research Group
+hero_media: 2022fallphoto.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -20,4 +19,4 @@ design:
 
 <br>
 
-The **Ma Research Group**... The page is under heavy construction.
+The group is working on various aspects of quantum information science, including quantum cryptography, quantum foundation and quantum computing.
