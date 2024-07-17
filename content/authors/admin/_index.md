@@ -13,13 +13,13 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quantum many-body dynamics, quantum information.
+bio:
 
 
 interests:
-  - Parametric quantum circuits
-  - Random models for quantum systems
-
+  - Open quantum systems, noise, and error correction.
+  - Quantum resources.
+  - Variational quantum state ansatzes.
 education:
   courses:
     - course: BSc in Physics
@@ -61,4 +61,6 @@ user_groups:
   - Grad Students
 ---
 
-Yuxuan Yan is a graduate student at IIIS, Tsinghua University. His research interests include parametric quantum circuits and random models for quantum systems.
+Graduate student @ IIIS, Tsinghua University.
+
+[Publications](https://scholar.google.com/citations?hl=en&user=_9ldhRwAAAAJ)
