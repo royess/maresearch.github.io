@@ -8,7 +8,7 @@ authors:
   - xiongfeng
 
 # Role/position
-role: Associate Professor
+role: Professor
 
 # Organizations/Affiliations
 organizations:
@@ -82,5 +82,7 @@ user_groups:
 My primary fields of research are quantum cryptography and quantum information, including quantum key distribution, quantum random number generation, (semi) self-testing/device-independent quantum information processing, quantum resource theory (including coherence and entanglement), quantum computing, quantum network, and quantum hacking.
 
 Publications: 102 journal papers, 25 patents, and 16 conference proceedings
+
 SCI Citations: 6257 with an H-index of 40; from https://publons.com/researcher/1411484/ xiongfeng-ma/
+
 Google Scholar Citations: 9836 with an H-index of 48; from https://scholar.google.com/citations? user=xxckIDQAAAAJ&hl=en&oi=ao
