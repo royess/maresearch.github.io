@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 
 Xingjian Zhang studied optoelectronic science and technology at Nankai University, where he graduated in 2018 with a B.A. degree. Xingjian Zhang is now a PhD candidate in physics at the Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University (2018-present) under the supervision of Prof. Xiongfeng Ma. His research interests include device-independent quantum information processing and quantum resource theory.
